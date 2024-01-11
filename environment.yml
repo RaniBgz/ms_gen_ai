@@ -1,0 +1,7 @@
+name: ms_gen_ai
+channels:  
+ - defaults
+dependencies:  
+- python=3.8
+- openai  
+- python-dotenv
